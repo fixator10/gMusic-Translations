@@ -9,7 +9,7 @@ $lang["lang"] = "Português Europeu";
 $lang["lang_code"] = "pt";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
-<li><a href="/lang">Help Translate!</a></li>
+<li><a href="/lang">Ajudar a traduzir!</a></li>
 <li role="separator" class="divider"></li>
 <li><a onclick="setlang('en');">English</a></li>
 <li><a onclick="setlang('cy');">Cymraeg</a></li>
