@@ -1,4 +1,4 @@
-<?php
+
 // English language file for gMusic
 // By Connor McFarlane
 $lang["author"] = "Connor McFarlane";
