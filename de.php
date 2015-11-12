@@ -67,7 +67,7 @@ $lang["testimonials"] = "REZENSIONEN";
 // Welcome!
 $lang["wel_welcome"] = "Willkommen!";
 $lang["wel_welcometo"] = "Willkommen bei gMusic!";
-$lang["wel_regular"] = "Bist du ein regelmäsiger Spieler von Garry's Mod? href='/dashboard/'>Erstelle jetzt deine Playlist!</a>"; // don't edit the tags, <a> and </a>
+$lang["wel_regular"] = "Bist du ein regelmäsiger Spieler von Garry's Mod? <a href='/dashboard/'>Erstelle jetzt deine Playlist!</a>"; // don't edit the tags, <a> and </a>
 $lang["wel_owner"] = "Bist du ein Server Besitzer oder Entwickler? <a href='/dashboard/servers'>Regestriere deinen Server jetzt bei gMusic!</a>"; // don't edit the tags, <a> and </a>
 // Banned! :C
 $lang["ban_banned"] = "Verbannt!";
