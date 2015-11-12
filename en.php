@@ -13,7 +13,7 @@ $lang["options"] = // don't worry about editing this part
 <li role="separator" class="divider"></li>
 <li><a onclick="setlang('cy');">Cymraeg</a></li>
 <li><a onclick="setlang('pt');">PortuguÃªs Europeu</a></li>
-<li><a onclick="setlang('ru');">Ðóññêèé</a></li>
+<li><a onclick="setlang('de');">Deutsche</a></li>
 EOT;
 
 // --- Translations
