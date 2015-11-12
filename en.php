@@ -32,6 +32,7 @@ $lang["side_players"] = "For Players";
 $lang["side_owners"] = "For Owners";
 $lang["side_devs"] = "For Developers";
 $lang["side_testimonials"] = "Testimonials";
+$lang["side_premium"] = "Premium";
 $lang["side_stats"] = "Statistics";
 
 $lang["side_songs"] = "Songs";
