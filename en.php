@@ -184,7 +184,7 @@ $lang["premium_text"] = // below
 "
 <p>Do you want to help support the development of gMusic?</p>
 <p>When you buy premium, the branding is removed from the embed widget, the ability to view unique views of your loading screen and I will design the embed widget to fit your website and more!</p>
-<p>One time payment of Â£3.50</p>
+<p>One time payment of ££3.50</p>
 ";
 $lang["premium_already"] = "You are already premium!";
 
