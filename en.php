@@ -188,6 +188,7 @@ $lang["premium_text"] = // below
 <p>One time payment of £3.50</p>
 ";
 $lang["premium_already"] = "You are already premium!";
+$lang["premium_notloggedin"] = "You aren't logged in!";
 
 // 404
 $lang["404"] = "404";
