@@ -1,4 +1,3 @@
-<?php
 // <?php
 // Keep the starting tag commented else eval will fail! :O
 // -------------------------------------------------------
