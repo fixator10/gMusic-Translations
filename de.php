@@ -1,4 +1,6 @@
-<?php
+// <?php
+// Keep the starting tag commented else eval will fail! :O
+// -------------------------------------------------------
 error_reporting(E_ALL & ~E_WARNING);
 // German language file for gMusic
 // By Tomelyr
