@@ -2,10 +2,10 @@
 error_reporting(E_ALL & ~E_WARNING);
 // German language file for gMusic
 // By Tomelyr
-$lang["author"] = "Connor McFarlane"; // Should this still be your name?
-$lang["author_attribution"] = "connormcf.com"; // see above
+$lang["author"] = "Tomelyr"; // Should this still be your name?
+$lang["author_attribution"] = "steamcommunity.com/profiles/76561197978538662"; // see above
 $lang["lang"] = "German";
-$lang["lang_code"] = "en";
+$lang["lang_code"] = "de";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
 <li><a onclick="setlang('cy');">Cymraeg</a></li>
