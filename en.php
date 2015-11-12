@@ -1,4 +1,6 @@
-
+// <?php
+// Keep the starting tag commented else eval will fail! :O
+// -------------------------------------------------------
 // English language file for gMusic
 // By Connor McFarlane
 $lang["author"] = "Connor McFarlane";
