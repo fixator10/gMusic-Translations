@@ -5,7 +5,7 @@
 // By SmOkEwOw
 $lang["author"] = "SmOkEwOw";
 $lang["author_attribution"] = "steamcommunity.com/id/SmOkEwOw";
-$lang["lang"] = "PortuguÃªs Europeu";
+$lang["lang"] = "Português Europeu";
 $lang["lang_code"] = "pt";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
