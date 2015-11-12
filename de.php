@@ -39,6 +39,13 @@ $lang["cdn_by"] = "CDN bereitgestellt von ";
 $lang["maxcdn"] = "MaxCDN";
 $lang["contact"] = "Kontakt";
 $lang["signinwithsteam"] = "Mit Steam einloggen!";
+
+$lang["stats"] = "STATISTICS";
+$lang["stats_songs"] = "Total songs registered with gMusic";
+$lang["stats_users"] = "Total users registered with gMusic";
+$lang["stats_servers"] = "Total servers registered with gMusic";
+$lang["stats_betas"] = "Total servers registered with beta gMusic";
+
 $lang["what_is_gmusic"] = "WAS IST gMUSIC?";
 $lang["what_is_gmusic_text"] = 
 "Keine Lust mehr die Ladeschirm Musik vorgeschrieben zu bekommen?
