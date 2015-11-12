@@ -6,7 +6,7 @@ error_reporting(E_ALL & ~E_WARNING);
 // By Tomelyr
 $lang["author"] = "Tomelyr"; // Should this still be your name?
 $lang["author_attribution"] = "steamcommunity.com/profiles/76561197978538662"; // see above
-$lang["lang"] = "German";
+$lang["lang"] = "Deutsch";
 $lang["lang_code"] = "de";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
