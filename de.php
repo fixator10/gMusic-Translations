@@ -10,6 +10,7 @@ $lang["lang"] = "German";
 $lang["lang_code"] = "de";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
+<li><a onclick="setlang('en');">English</a></li>
 <li><a onclick="setlang('cy');">Cymraeg</a></li>
 <li><a onclick="setlang('pt');">PortuguÃªs Europeu</a></li>
 EOT;
