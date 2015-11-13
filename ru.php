@@ -8,9 +8,9 @@ $lang["lang"] = "Русский";
 $lang["lang_code"] = "ru";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
-<li><a onclick="setlang('cy');">Cymraeg</a></li>
-<li><a onclick="setlang('pt');">PortuguA?s Europeu</a></li>
-<li><a onclick="setlang('pt');">Русский</a></li>
+<li><a onclick="setlang('en');">English</a></li>
+<li><a onclick="setlang('pt');">Português Europeu</a></li>
+<li><a onclick="setlang('de');">Deutsche</a></li>
 EOT;
 // --- Translations
 // Sidebar
