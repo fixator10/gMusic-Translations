@@ -12,8 +12,8 @@ $lang["options"] = // don't worry about editing this part
 <li><a href="/lang">Ajudar a traduzir!</a></li>
 <li role="separator" class="divider"></li>
 <li><a onclick="setlang('en');">English</a></li>
-<li><a onclick="setlang('cy');">Cymraeg</a></li>
 <li><a onclick="setlang('de');">Deutsche</a></li>
+<li><a onclick="setlang('ru');">Русский</a></li>
 EOT;
  
 // --- Translations
