@@ -4,7 +4,7 @@ error_reporting(E_ALL & ~E_WARNING);
 // By Denis Polischuk
 $lang["author"] = "Crax/Denis Polischuk";
 $lang["author_attribution"] = "vk.com/batyamedic";
-$lang["lang"] = "Russian";
+$lang["lang"] = "Русский";
 $lang["lang_code"] = "ru";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
