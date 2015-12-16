@@ -8,6 +8,8 @@ $lang["lang"] = "Русский";
 $lang["lang_code"] = "ru";
 $lang["options"] = // don't worry about editing this part
 <<<EOT
+<li><a href="/lang"> Помогите с переводом!</a></li>
+<li role="separator" class="divider"></li>
 <li><a onclick="setlang('en');">English</a></li>
 <li><a onclick="setlang('pt');">Português Europeu</a></li>
 <li><a onclick="setlang('de');">Deutsche</a></li>
