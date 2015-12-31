@@ -99,7 +99,7 @@ $lang["dash_videoid"] = "Video ID";
 $lang["dash_enable"] = "Aktivieren";
 $lang["dash_disable"] = "Deaktivieren";
 $lang["dash_delete"] = "Löschen";
-$lang["dash_cancel"] = "Abrechen";
+$lang["dash_cancel"] = "Abbrechen";
 $lang["dash_email_doconfirm"] = "Bitte überprüfe dein Postfach für die Verifikationsemail! (Schau auch in dein Spamfach, wenn du sie nicht findest)";
 $lang["dash_email_confirmed"] = 'Danke für die Bestätigung deiner Email! Du kannst nun einen<a data-toggle="modal" href="#addServerModal">Server hinzufügen</a>!';
 $lang["dash_email_disposable"] = "Please don't use a disposable email, we'll never spam you. It's only incase something goes wrong.";
