@@ -115,6 +115,7 @@ $lang["dash_fail"] = "FAIL!";
 $lang["dash_youtube"] = "YouTube";
 $lang["dash_soundcloud"] = "Soundcloud";
 $lang["dash_notimplimented"] = "(not implimented)";
+$lang["dash_experimental"] = "(experimental)";
 $lang["dash_add"] = "Add";
 $lang["dash_duration"] = "Duration";
 $lang["dash_videoid"] = "Video ID";
