@@ -14,6 +14,7 @@ $lang["options"] = // don't worry about editing this part
 <li role="separator" class="divider"></li>
 <li><a onclick="setlang('en');">English</a></li>
 <li><a onclick="setlang('pt');">Português Europeu</a></li>
+<li><a onclick="setlang('pt-br');">Português Brasileiro</a></li>
 <li><a onclick="setlang('ru');">Русский</a></li>
 <li><a onclick="setlang('fr');">Français</a></li>
 EOT;
