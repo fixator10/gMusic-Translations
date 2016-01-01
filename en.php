@@ -200,3 +200,6 @@ $lang["404_contact"] = 'If you came here from a valid link, please <a href="/con
 
 // Etc
 $lang["contact"] = "Contact";
+
+
+$lang["stats_views"] = "Total server connects registered with gMusic";
