@@ -2,7 +2,7 @@
 error_reporting(E_ALL & ~E_WARNING);
 // Russian language file for gMusic
 // By Denis Polischuk
-// Fixes and spellchecking by Fixator10
+// Fixes, spellchecking and additional translation by Fixator10
 // Note for next translators:  
 // Будущим переводчикам рекомендую проверять орфографию. Хотя-бы в Word'е.
 // Такие простые ошибки аж глаза режут.
