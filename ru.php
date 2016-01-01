@@ -46,7 +46,7 @@ $lang["contact"] = "Связь";
 $lang["signinwithsteam"] = "Войти с помощью Steam!";
 $lang["what_is_gmusic"] = "ЧТО ТАКОЕ gMUSIC?";
 $lang["what_is_gmusic_text"] = 
-"Надоело слушать музыку при загрузке которую поставил владелец сервера?
+"Надоело слушать музыку при загрузке, которую поставил владелец сервера?
 Теперь, с помощью gMusic, вы можете сами выбрать свою музыку!";
 $lang["players"] = "ИГРОКИ";
 $lang["players_text"] = 
@@ -58,15 +58,15 @@ $lang["serverowners_text"] =
 Зайдите с помощью Steam и проследуйте к контрольной панели.";
 $lang["devs"] = "РАЗРАБОТЧИКИ СЕРВЕРОВ";
 $lang["devs_text"] = 
-"Вы разработчик для сервера и хотите интегрировать gMusic со своим сайтом?
+"Вы разработчик сервера и хотите интегрировать gMusic со своим сайтом?
 Посмотрите на наш прекрасный API!";
 $lang["devs_button"] = "ПОСМОТРЕТЬ НА API";
 $lang["testimonials"] = "ОТЗЫВЫ";
 // Welcome!
 $lang["wel_welcome"] = "Добро пожаловать!";
 $lang["wel_welcometo"] = "Добро пожаловать на gMusic!";
-$lang["wel_regular"] = "Вы обычный игрок гмода? <a href='/dashboard/'>Выберите свою музыку!</a>"; // don't edit the tags, <a> and </a>
-$lang["wel_owner"] = "Вы админ сервера или разработчик? <a href='/dashboard/servers'>Зарегистрируйте свой сервер уже сегодня!</a>"; // don't edit the tags, <a> and </a>
+$lang["wel_regular"] = "Вы обычный игрок Garry's Mod'а? <a href='/dashboard/'>Выберите свою музыку!</a>"; // don't edit the tags, <a> and </a> | не трогайте теги от <a> до </a>
+$lang["wel_owner"] = "Вы админ сервера или разработчик? <a href='/dashboard/servers'>Зарегистрируйте свой сервер уже сегодня!</a>"; // don't edit the tags, <a> and </a> | не трогайте теги от <a> до </a>
 // Banned! :C
 $lang["ban_banned"] = "Вас забанили !";
 $lang["ban_uhoh"] = "Опаньки! Похоже вас забанили... :C";
