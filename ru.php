@@ -151,7 +151,7 @@ $lang["dash_setupinstructions_text"] = // don't worry about editing this part
   <li>Если в вашем загрузочном экране нет музыки, разместите код внизу, возле тега &lt;/body&gt;</li>
 </ol>
 EOT;
-$lang["dash_embedcode"] = "Код для Встриавания";
+$lang["dash_embedcode"] = "Код для Встраивания";
 $lang["dash_customjscode"] = "Собственный код JS";
 $lang["dash_customjscode_text"] = "Собственный код javascript устарел! Используйте <a href='/api'>API</a>!";
 $lang["dash_serverdelete"] = // below 
