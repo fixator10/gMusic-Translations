@@ -168,7 +168,7 @@ EOT;
 $lang["dash_totalconnects"] = "Всего подключений";
 // Servers - embed widget
 $lang["dash_embedwidget"] = "Вставка Виджета";
-$lang["dash_embedwidget_text"] = "Привет! Я буквально сейчас делаю Виджет! Вам, наверное, не стоит трогать это так как чтото может сломаться.";
+$lang["dash_embedwidget_text"] = "Привет! Я буквально сейчас делаю Виджет! Вам, наверное, не стоит трогать это, так как что-то может сломаться.";
 // Premium
 $lang["premium"] = "Премиум";
 $lang["premium_text"] = // below 
