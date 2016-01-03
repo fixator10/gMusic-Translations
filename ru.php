@@ -7,8 +7,6 @@ error_reporting(E_ALL & ~E_WARNING);
 // Будущим переводчикам рекомендую проверять орфографию. Хотя-бы в Word'е.
 // Такие простые ошибки аж глаза режут.
 // И да. Не бойтесь внедрять адаптации. Прямой перевод - тоже не всегда хорошо.
-// Note for Developer: Please, in future, add new lines in original (EN) file to the end of the file.
-// This way more easy to detect new lines to translate.
 $lang["author"] = "Crax/Denis Polischuk, Fixator10";
 $lang["author_attribution"] = "vk.com/batyamedic, vk.com/fixator10 | http://steamcommunity.com/id/fixator10";
 $lang["lang"] = "Русский";
@@ -185,7 +183,7 @@ $lang["premium_notloggedin"] = "Вы не вошли в gMusic!";
 // 404
 $lang["404"] = "404";
 $lang["404_uhoh"] = "Опаньки! Это не то что вы искали...";
-$lang["404_contact"] = 'Если вы попали сюда откуда-то с этого сайта, пожалуйста <a href="/contact">дайте мне знать</a>. Вы также можете <a href="/">вернуться на домашнюю страницу</a>.'; // don't edit the tags, <a> and </a> (edit inside) | не трогайте теги от <a> до </a> (редактируйте внутри)
+$lang["404_contact"] = 'Если вы попали сюда откуда-либо на этот сайт, пожалуйста <a href="/contact">дайте мне знать</a>. Вы также можете <a href="/">вернуться на домашнюю страницу</a>.'; // don't edit the tags, <a> and </a> (edit inside) | не трогайте теги от <a> до </a> (редактируйте внутри)
 // Etc
 $lang["contact"] = "Связь";
 
